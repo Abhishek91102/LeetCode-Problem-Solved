@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/0025-reverse-nodes-in-k-group) |
+## String
+|  |
+| ------- |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/3230-remove-adjacent-almost-equal-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/3230-remove-adjacent-almost-equal-characters) |
+## Greedy
+|  |
+| ------- |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/3230-remove-adjacent-almost-equal-characters) |
 <!---LeetCode Topics End-->
