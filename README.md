@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/0020-valid-parentheses) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Dynamic Programming
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/3230-remove-adjacent-almost-equal-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek91102/LeetCode-Problem-Solved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
